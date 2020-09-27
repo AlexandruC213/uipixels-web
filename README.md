@@ -15,5 +15,3 @@ This landing page was made with:
  -  Good Practice
 
 ***
-
-# Photos
